@@ -1,1 +1,34 @@
-/* Write your CSS here! */
+body {
+    width: 100%;
+    max-width: 0 auto;
+    background-color:crimson;
+    font-size: 100%;
+    margin: 8px;
+    display: block;
+}
+
+header,
+main,
+footer {
+    background-color:crimson
+    font-size: 2em;
+}
+
+header h1 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 1em;
+}
